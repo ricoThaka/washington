@@ -1,10 +1,30 @@
 ---
 layout: default
 title: Rashard Iman Kelly of NasaJPL
+mermaid: true
 ---
 
 
 {% include paginator.md %}
+
+[Solid Steel Radio Show: Mixed by DK, Strictly Kev, PC, The Butch Cassidy Sound System (Nov 22, 2004)](https://youtu.be/e_N4TYS1l60?t=4509)
+
+# GitHub Branching 
+<div class="mermaid">
+gitGraph:
+    commit "Normani"
+    branch family
+    checkout never
+    commit id:"1111"
+    commit tag:"test"
+    checkout main
+    commit type: HIGHLIGHT
+    commit
+    merge withme
+    commit
+    branch An_Nisa
+    commit
+</div> 
 
 # Rashard Kelly NasaJpl MRO JUNO iSS
 
