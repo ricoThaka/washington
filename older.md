@@ -1,4 +1,15 @@
 
+<ul>
+  {% for post in site.posts %}
+      <li>
+          <h2><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a></h2>
+          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
+          <p>{{ post.content | strip_html | truncatewords:50 }}</p>
+      </li>
+  {% endfor %}
+</ul>
+
+
 
 [<img src="https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_011600_011699/ESP_011635_1510_PSP_002682_1510/ESP_011635_1510_PSP_002682_1510_RED.browse.png" alt="Clementine 1" />](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_011600_011699/ESP_011635_1510_PSP_002682_1510/ESP_011635_1510_PSP_002682_1510_RED.browse.png)
 
