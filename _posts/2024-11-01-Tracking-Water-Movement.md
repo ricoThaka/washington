@@ -2,7 +2,11 @@
 layout: post
 title:  "Tracking the Invisible Movement of Water"
 published: true
+image: wasco_ast_2011191_lrg.jpg
 ---
+
+[ASTRALWERKS CASSETTE SAMPLER SUMMER 1994](https://youtu.be/kypmFar9CRE?t=1248)
+![BAKERSFiELD](https://eoimages.gsfc.nasa.gov/images/imagerecords/80000/80595/wasco_ast_2011191_lrg.jpg)
 
 # Tracking the Invisible Movement of Water
 ![trackingWater california](https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152395/openetwideca_model_2023.jpg)
