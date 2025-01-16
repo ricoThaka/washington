@@ -4,7 +4,7 @@ title: Rashard Iman Kelly of NasaJPL
 mermaid: true
 ---
 
-{% include README.md %}
+{% include_relative  README.md %}
 
 
 
