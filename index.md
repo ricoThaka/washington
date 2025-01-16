@@ -3,19 +3,15 @@ layout: default
 title: Rashard Iman Kelly of NasaJPL
 mermaid: true
 ---
-# The View from the Top 
-A new composite image built from 15 satellite passes shows the Arctic and northern latitudes as you have never seen them before. 
->Image by Norman Kuring, NASA/GSFC/Suomi NPP. Caption by Michael Carlowicz. Suomi NPP is the result of a partnership between NASA, NOAA and the Department of Defense.
 
->Published June 22, 2012
->Data acquired May 26, 2012
-
-[<img src="https://eoimages.gsfc.nasa.gov/images/imagerecords/78000/78349/arctic_vir_2012147_lrg.jpg" alt="" />](https://eoimages.gsfc.nasa.gov/images/imagerecords/78000/78349/arctic_vir_2012147_lrg.jpg)
+{% include README.md %}
 
 
 
 
-{% include paginator.md %}
+
+
+
 
 [Solid Steel Radio Show: Mixed by DK, Strictly Kev, PC, The Butch Cassidy Sound System (Nov 22, 2004)](https://youtu.be/e_N4TYS1l60?t=4509)
 
